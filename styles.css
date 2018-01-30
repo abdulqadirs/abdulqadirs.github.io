@@ -3,7 +3,27 @@
 body {
     font: 400 15px/1.5 "Roboto Slab",Montserrat,Iosevka,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-family: "Roboto Slab", "Montserrat, Iosevka", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #111;
 }
 .about {
     margin-bottom: 15px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.email{
+    color:#2a7ae2
+}
+.fa-github {
+    color: #333;
+}
+.fa-envelope 
+{
+    color:grey;
+}
+.name {
+    margin-bottom: 10px;
 }
